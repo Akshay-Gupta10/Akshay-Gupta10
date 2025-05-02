@@ -1,7 +1,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Akshay-Gupta10/Akshay-Gupta10/assets/your-banner-image.png" alt="Banner" />
+  <img src="https://github.com/Akshay-Gupta10/Akshay-Gupta10/profile.jpg" alt="Banner" />
 </p>
 
 <!-- Typing SVG -->
