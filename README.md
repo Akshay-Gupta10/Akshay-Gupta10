@@ -77,11 +77,11 @@ A sleek, modern music streaming web app to discover, play, and vibe to your favo
 ### 🏅 Achievements
 
 - **LeetCode**  
-  - Solved **850+** problems (Max rating: 1747), ranked in the **top 10%** of users  
+  - Solved **940+** problems (Max rating: 1747), ranked in the **top 10%** of users  
   - Placed **#1,807** out of 16,392 in **Weekly Contest 443**
 
 - **GeeksforGeeks**  
-  - Solved **230+** DSA problems (Contest rating: 1825), ranked in the **top 6%** of users  
+  - Solved **250+** DSA problems (Contest rating: 1825), ranked in the **top 6%** of users  
   - Secured **#180** in **Weekly Contest 193**
 
 ---
