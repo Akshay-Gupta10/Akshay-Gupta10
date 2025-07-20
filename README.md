@@ -46,7 +46,7 @@
 
 - 💻 **Technical Skills**  
   - **Languages:** Java, JavaScript, SQL, HTML, CSS  
-  - **Frameworks & Libraries:** Node.js, EJS  
+  - **Frameworks & Libraries:** Node.js, Express.js, EJS  
   - **Databases:** MySQL, MongoDB  
   - **Tools:** VS Code, Git, GitHub
 
@@ -77,8 +77,8 @@ A sleek, modern music streaming web app to discover, play, and vibe to your favo
 ### 🏅 Achievements
 
 - **LeetCode**  
-  - Solved **940+** problems (Max rating: 1747), ranked in the **top 10%** of users  
-  - Placed **#1,807** out of 16,392 in **Weekly Contest 443**
+  - Solved **1000+** problems (Max rating: 1777), ranked under **top 10%** of users  
+  - Placed **#1,294** out of 29,470 in **Biweekly Contest 160**
 
 - **GeeksforGeeks**  
   - Solved **250+** DSA problems (Contest rating: 1825), ranked in the **top 6%** of users  
