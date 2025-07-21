@@ -66,7 +66,7 @@ A full-stack web application that connects food donors with recipients to reduce
 
 #### [Roamify](https://github.com/Akshay-Gupta10/Roamify)  
 **June 2025-Ongoing**  
-A sleek, modern music streaming web app to discover, play, and vibe to your favorite tracks—anytime, anywhere.
+A web app that is used to book the properties for rent during the holidays at a location reducing the tussle for users and also providing them a lot of listings to plan & choose accordingly.
 
 - **Tech Stack:** Node.js, Express.js, Javascript, MongoDB, EJS, Bootstrap, MapBox  
 - Developed a fully responsive web app for listing and booking properties, using EJS templating and Bootstrap for
