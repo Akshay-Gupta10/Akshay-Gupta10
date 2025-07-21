@@ -46,7 +46,7 @@
 
 - 💻 **Technical Skills**  
   - **Languages:** Java, JavaScript, SQL, HTML, CSS  
-  - **Frameworks & Libraries:** Node.js, Express.js, EJS  
+  - **Frameworks & Libraries:** Node.js, Express.js, React.js, EJS  
   - **Databases:** MySQL, MongoDB  
   - **Tools:** VS Code, Git, GitHub
 
@@ -64,13 +64,17 @@ A full-stack web application that connects food donors with recipients to reduce
 - Built responsive UI components and forms with HTML, CSS, and vanilla JS.  
 - Conducted a 50+ user simulation to validate real-time matching efficiency.
 
-#### [Groovo](https://github.com/Akshay-Gupta10/Groovo)  
-**Oct 2024**  
+#### [Roamify](https://github.com/Akshay-Gupta10/Roamify)  
+**June 2025-Ongoing**  
 A sleek, modern music streaming web app to discover, play, and vibe to your favorite tracks—anytime, anywhere.
 
-- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-- Implemented seamless audio playback and curated playlists for an immersive user experience.  
-- Crafted a responsive and interactive UI optimized for desktop and mobile.
+- **Tech Stack:** Node.js, Express.js, Javascript, MongoDB, EJS, Bootstrap, MapBox  
+- Developed a fully responsive web app for listing and booking properties, using EJS templating and Bootstrap for
+the frontend.
+- Implemented CRUD operations for listings using Express.js and MongoDB.
+- Integrated user authentication & session management using Passport.js and Express-session for login/signup
+functionalities.
+- Utilized Mapbox API to provide geolocation and mapping features for property listings.e.
 
 ---
 
