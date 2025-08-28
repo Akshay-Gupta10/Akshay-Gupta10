@@ -81,11 +81,11 @@ functionalities.
 ### 🏅 Achievements
 
 - **LeetCode**  
-  - Solved **1000+** problems (Max rating: 1791), ranked under **top 10%** of users  
-  - Placed **#1,294** out of 29,470 in **Biweekly Contest 160**
+  - Solved **1000+** problems (Max rating: 1842), ranked under **top 6%** of users  
+  - Ranked **#836** out of 35,629 in **Weekly Contest 464**
 
 - **GeeksforGeeks**  
-  - Solved **250+** DSA problems (Contest rating: 1825), ranked in the **top 6%** of users  
+  - Solved **300+** DSA problems (Contest rating: 1825), ranked in the **top 6%** of users  
   - Secured **#180** in **Weekly Contest 193**
 
 ---
