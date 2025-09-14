@@ -48,7 +48,7 @@
   - **Languages:** Java, JavaScript, SQL, HTML, CSS  
   - **Frameworks & Libraries:** Node.js, Express.js, React.js, EJS  
   - **Databases:** MySQL, MongoDB  
-  - **Tools:** VS Code, Git, GitHub
+  - **Tools:** VS Code, Git, GitHub, Postman
 
 ---
 
