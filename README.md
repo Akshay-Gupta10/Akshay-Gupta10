@@ -48,7 +48,7 @@
   - **Languages:** Java, JavaScript, SQL, HTML, CSS  
   - **Frameworks & Libraries:** Node.js, Express.js, React.js, EJS  
   - **Databases:** MySQL, MongoDB  
-  - **Tools:** VS Code, Git, GitHub, Postman
+  - **Tools:** VS Code, Git, GitHub, Docker, Postman
 
 ---
 
@@ -81,7 +81,7 @@ functionalities.
 ### 🏅 Achievements
 
 - **LeetCode**  
-  - Solved **1000+** problems (Max rating: 1842), ranked under **top 6%** of users  
+  - Solved **1000+** problems (Max rating: 1874), ranked under **top 5%** of users  
   - Ranked **#836** out of 35,629 in **Weekly Contest 464**
 
 - **GeeksforGeeks**  
