@@ -42,7 +42,7 @@
 
 - 🎓 **B.Tech in Computer Science & Engineering (AI/ML)**  
   G. L. Bajaj Institute of Technology and Management, Greater Noida (Nov 2022 – Jun 2026)  
-  **CGPA:** 8.7/10
+  **CGPA:** 8.6/10
 
 - 💻 **Technical Skills**  
   - **Languages:** Java, JavaScript, SQL, HTML, CSS  
