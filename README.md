@@ -81,7 +81,7 @@ functionalities.
 ### 🏅 Achievements
 
 - **LeetCode**  
-  - Solved **1000+** problems (Max rating: 1874), ranked under **top 5%** of leetcode users  
+  - Solved **1000+** problems (Max rating: 1909), ranked under **top 5%** of leetcode users  
   - Ranked **#836** out of 35,629 in **Weekly Contest 464**
 
 - **GeeksforGeeks**  
