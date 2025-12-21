@@ -34,6 +34,9 @@
   <a href="https://auth.geeksforgeeks.org/user/akshaygup96uc/profile" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
+  <a href="https://portfolio-y8wo.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-1e90ff?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -48,33 +51,50 @@
   - **Languages:** Java, JavaScript, SQL, HTML, CSS  
   - **Frameworks & Libraries:** Node.js, Express.js, React.js, EJS  
   - **Databases:** MySQL, MongoDB  
-  - **Tools:** VS Code, Git, GitHub, Docker, Postman
+  - **Tools:** VS Code, Git, GitHub, Postman, Docker
 
 ---
 
 ### 🚀 Projects
 
-#### [CareShare](https://github.com/Akshay-Gupta10/CareShare)  
+#### [MediAssist](https://mediassist-frontend.onrender.com/)  
+**Aug 2025**  
+MediAssist is a web-based healthcare platform that helps patients easily find doctors by specialty, book appointments, and make hassle-free payments. Doctors can manage their availability, while the admin panel provides full control over users, doctors, and bookings.
+
+- **Tech Stack:** Node.js, Express.js, React.js, JavaScript, MongoDB
+- Developed a healthcare platform connecting 15+ doctors across 5+ specialities (scalable as more join),
+enabling users to easily filter and discover relevant doctors.
+- Implemented real-time slot updates with toast notifications, managing 10+ daily bookings and reducing manual
+coordination/waiting time by 40%.
+- Integrated secure online payments, successfully handling dozens of test transactions with instant success/failure
+notifications to ensure reliability.
+- Built an admin panel to manage doctors, appointments, and payments, streamlining operations and cutting
+appointment management effort from 15+ mins to under 5 mins.
+
+#### [Roamify](https://roamify-29r2.onrender.com/)  
+**June 2025**  
+A web app that is used to book the properties for rent during the holidays at a location reducing the tussle for users and also providing them a lot of listings to plan & choose accordingly.
+
+- **Tech Stack:** Node.js, Express.js, Javascript, MongoDB, EJS, Bootstrap, MapBox  
+- Developed a fully responsive property booking web app, leveraging EJS templating and Bootstrap to deliver a
+seamless user experience across devices, tested with 50+ listings.
+- Designed CRUD operations for property listings using Express.js and MongoDB, enabling dynamic data
+management with 100 ms average query latency.
+- Added Mapbox-based geolocation features, tested across 10+ cities, achieving high-precision property
+mapping with <50m average accuracy.
+
+
+#### [CareShare](https://mediassist-frontend.onrender.com/)  
 **Nov 2024 – Jan 2025**  
 A full-stack web application that connects food donors with recipients to reduce community-level food wastage and hunger.
 
 - **Tech Stack:** Node.js, Express.js, JavaScript, MongoDB, EJS  
-- Designed RESTful APIs for secure, scalable user, donation, and transaction management.  
-- Integrated MongoDB to store donation data, user profiles, and real-time transaction logs.  
-- Built responsive UI components and forms with HTML, CSS, and vanilla JS.  
-- Conducted a 50+ user simulation to validate real-time matching efficiency.
-
-#### [Roamify](https://github.com/Akshay-Gupta10/Roamify)  
-**June 2025-Ongoing**  
-A web app that is used to book the properties for rent during the holidays at a location reducing the tussle for users and also providing them a lot of listings to plan & choose accordingly.
-
-- **Tech Stack:** Node.js, Express.js, Javascript, MongoDB, EJS, Bootstrap, MapBox  
-- Developed a fully responsive web app for listing and booking properties, using EJS templating and Bootstrap for
-the frontend.
-- Implemented CRUD operations for listings using Express.js and MongoDB.
-- Integrated user authentication & session management using Passport.js and Express-session for login/signup
-functionalities.
-- Utilized Mapbox API to provide geolocation and mapping features for property listings.e.
+- Engineered a full-stack food donation platform to connect donors with recipients, reducing community-level
+food wastage and enabling real-time donation tracking.
+- Engineered backend services using Node.js and Express.js, creating RESTful APIs for secure and scalable user,
+donation, and transaction management.
+- Integrated MongoDB for structured storage of donation data, user profiles, and live transaction logs, achieving
+<200ms average query latency.
 
 ---
 
@@ -87,6 +107,10 @@ functionalities.
 - **GeeksforGeeks**  
   - Solved **300+** DSA problems (Contest rating: 1825), ranked in the **top 6%** of users  
   - Secured **#180** in **Weekly Contest 193**
+ 
+- **CodeChef**  
+  - 3 star coder at CodeChef with a max. rating of 1724 
+  - Ranked **#78** out of ~3,500 rated in **CodeChef Starters 199**
 
 ---
 
